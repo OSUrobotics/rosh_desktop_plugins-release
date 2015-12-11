@@ -1,3 +1,27 @@
+## rosh_desktop_plugins (jade) - 1.0.4-0
+
+The packages in the `rosh_desktop_plugins` repository were released into the `jade` distro by running `/usr/bin/bloom-release rosh_desktop_plugins --track jade --rosdistro jade --new-track` on `Fri, 11 Dec 2015 20:27:26 -0000`
+
+These packages were released:
+- `rosh_desktop`
+- `rosh_desktop_plugins`
+- `rosh_visualization`
+
+Version of package(s) in repository `rosh_desktop_plugins`:
+- upstream repository: https://github.com/OSUrobotics/rosh_desktop_plugins.git
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `null`
+- new version: `1.0.4-0`
+
+Versions of tools used:
+- bloom version: `0.5.20`
+- catkin_pkg version: `0.2.10`
+- rosdep version: `0.11.4`
+- rosdistro version: `0.4.2`
+- vcstools version: `0.1.38`
+
+
 ## rosh_desktop_plugins (indigo) - 1.0.4-0
 
 The packages in the `rosh_desktop_plugins` repository were released into the `indigo` distro by running `/usr/bin/bloom-release rosh_desktop_plugins --track indigo --rosdistro indigo` on `Fri, 22 Aug 2014 18:17:04 -0000`
