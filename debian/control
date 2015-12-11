@@ -1,0 +1,12 @@
+Source: ros-jade-rosh-visualization
+Section: misc
+Priority: extra
+Maintainer: Dan Lazewatsky <dan@lazewatsky.com>
+Build-Depends: debhelper (>= 9.0.0), ros-jade-catkin
+Homepage: http://ros.org/wiki/rosh_visualization
+Standards-Version: 3.9.2
+
+Package: ros-jade-rosh-visualization
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-jade-image-view, ros-jade-rosh, ros-jade-roslib
+Description: ROSH plugin for the visualization stack.
